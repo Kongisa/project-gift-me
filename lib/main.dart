@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context)
   {
     return MaterialApp(
-      title: "Welcome to gift me again",
+      title: "Welcome to gift me again again",
       home: AddDonation(),
     );
   }
